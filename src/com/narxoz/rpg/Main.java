@@ -44,6 +44,7 @@ public class Main {
         for (String logEntry : result.getBattleLog()) {
             System.out.println(logEntry);
         }
+
         System.out.println("\n=== Demo Complete ===");
     }
 }

@@ -1,4 +1,5 @@
 package com.narxoz.rpg.hero;
+
 public class Mage implements Hero {
     private final String name;
     private final int power;

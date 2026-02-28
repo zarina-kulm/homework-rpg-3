@@ -1,4 +1,5 @@
 package com.narxoz.rpg.hero;
+
 public class Warrior implements Hero {
     private final String name;
     private final int power;

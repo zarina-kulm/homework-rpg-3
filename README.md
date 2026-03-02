@@ -55,6 +55,16 @@ homework_rpg_3/
 └── README.md
 ```
 
+### Singleton
+![Singleton](Diagram/Adapter.png)
+
+### Adapter
+![Adapter](Diagram/Singleton.png)
+
+### Выводрограммы
+
+## Ссылка на код 
+https://github.com/zarina-kulm/homework-rpg-3.git
 ## Deliverables
 - Completed Java code
 - UML diagrams (2)
